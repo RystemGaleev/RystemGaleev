@@ -1,3 +1,6 @@
+PREVIEW
+MARKDOWN
+COPY
 Hi 👋 My name is Rystem
 =======================
 
@@ -8,7 +11,7 @@ I am a fronted developer with 2+ years of experience
 
 * 🌍  I'm based in Kazan
 * 🖥️  See my portfolio at [here](http://portfolio-gamma-plum-38.vercel.app/)
-* ✉️  You can contact me at [https://t.me/Rystezy](mailto: https://t.me/Rystezy)
+* ✉️  You can contact me at [rystezy@list.ru](mailto:rystezy@list.ru)
 
 ### Skills
 
