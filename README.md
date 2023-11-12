@@ -8,7 +8,7 @@ With 2+ years of experience
 
 * 🌍  I'm based in Kazan
 * 🖥️  See my portfolio at [here](http://portfolio-gamma-plum-38.vercel.app/)
-* ✉️  You can contact me at  telegram https://t.me/Rystezy  and [rystezy@list.ru](mailto:rystezy@list.ru)
+* ✉️  You can contact me at  telegram https://t.me/Rystezy 
 
 ### Skills
 
