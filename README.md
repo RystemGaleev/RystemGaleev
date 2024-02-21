@@ -4,7 +4,7 @@ Hi 👋 My name is Rystem
 I am a fronted developer
 ------------------------
 
-With 2+ years of experience
+With 3+ years of experience
 
 * 🌍  I'm based in Kazan
 * 🖥️  See my portfolio at [here](http://portfolio-gamma-plum-38.vercel.app/)
